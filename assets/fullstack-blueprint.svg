@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111A2E"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="lime" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A3E635"/>
+      <stop offset="1" stop-color="#4D7C0F"/>
+    </linearGradient>
+    <linearGradient id="spec" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1D4ED8" stop-opacity="0.35"/>
+      <stop offset="0.5" stop-color="#60A5FA" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#1D4ED8" stop-opacity="0.35"/>
+    </linearGradient>
+    <filter id="shadow2" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.45"/>
+    </filter>
+    <marker id="arrow2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#64748B"/>
+    </marker>
+    <pattern id="grid2" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1E293B" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="400" rx="18" fill="url(#bg2)"/>
+  <rect width="1200" height="400" rx="18" fill="url(#grid2)" opacity="0.55"/>
+  <rect x="0.5" y="0.5" width="1199" height="399" rx="18" fill="none" stroke="#1F2A44"/>
+
+  <text x="48" y="54" fill="#E2E8F0" font-size="22" font-weight="700">Full-stack feature blueprint</text>
+  <text x="48" y="78" fill="#94A3B8" font-size="13.5">One spec, one contract, verified at every layer — how I design a feature before the first line of code</text>
+  <rect x="48" y="90" width="72" height="3" rx="1.5" fill="url(#blue)"/>
+
+  <!-- spec bar -->
+  <rect x="48" y="112" width="1104" height="40" rx="10" fill="url(#spec)" stroke="#3B82F6" stroke-opacity="0.5"/>
+  <text x="600" y="137" text-anchor="middle" fill="#EFF6FF" font-size="13.5" font-weight="700" letter-spacing="0.3">FEATURE SPEC  ·  expected behaviour  ·  what must NOT happen  ·  objective acceptance criteria</text>
+
+  <!-- down arrows from spec -->
+  <g stroke="#334155" stroke-width="2" fill="none" marker-end="url(#arrow2)">
+    <path d="M224 152 L224 176"/>
+    <path d="M592 152 L592 176"/>
+    <path d="M960 152 L960 176"/>
+  </g>
+
+  <!-- layer columns -->
+  <!-- UI -->
+  <g filter="url(#shadow2)">
+    <rect x="48" y="178" width="352" height="118" rx="14" fill="#141D33" stroke="#263450"/>
+    <rect x="48" y="178" width="352" height="4" rx="2" fill="url(#blue)"/>
+  </g>
+  <g transform="translate(70,200)">
+    <rect width="34" height="34" rx="9" fill="#132038"/>
+    <rect x="7" y="8" width="20" height="18" rx="2.5" fill="none" stroke="#60A5FA" stroke-width="1.8"/>
+    <path d="M7 13.5h20" stroke="#60A5FA" stroke-width="1.8"/>
+    <rect x="10" y="17" width="6" height="5" rx="1" fill="#60A5FA"/>
+  </g>
+  <text x="114" y="215" fill="#F8FAFC" font-size="15" font-weight="700">Interface</text>
+  <text x="114" y="233" fill="#94A3B8" font-size="11.5">React 19 · TypeScript · Zustand / Redux · Tailwind</text>
+  <text x="70" y="268" fill="#CBD5E1" font-size="12.5">components · state store · pointer &amp; keyboard input</text>
+  <text x="70" y="286" fill="#CBD5E1" font-size="12.5">canvas / SVG rendering · optimistic updates · a11y</text>
+
+  <!-- API -->
+  <g filter="url(#shadow2)">
+    <rect x="416" y="178" width="352" height="118" rx="14" fill="#141D33" stroke="#263450"/>
+    <rect x="416" y="178" width="352" height="4" rx="2" fill="url(#teal)"/>
+  </g>
+  <g transform="translate(438,200)">
+    <rect width="34" height="34" rx="9" fill="#0F2A2A"/>
+    <path d="M9 12h16M9 17h16M9 22h16" stroke="#2DD4BF" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="12" cy="12" r="1.6" fill="#2DD4BF"/><circle cx="12" cy="17" r="1.6" fill="#2DD4BF"/><circle cx="12" cy="22" r="1.6" fill="#2DD4BF"/>
+  </g>
+  <text x="482" y="215" fill="#F8FAFC" font-size="15" font-weight="700">API</text>
+  <text x="482" y="233" fill="#94A3B8" font-size="11.5">Node.js · Express · REST · JWT · Zod / Joi</text>
+  <text x="438" y="268" fill="#CBD5E1" font-size="12.5">typed contract shared with the UI · validation at the edge</text>
+  <text x="438" y="286" fill="#CBD5E1" font-size="12.5">auth &amp; roles · rate limiting · consistent error shape</text>
+
+  <!-- Data -->
+  <g filter="url(#shadow2)">
+    <rect x="784" y="178" width="352" height="118" rx="14" fill="#141D33" stroke="#263450"/>
+    <rect x="784" y="178" width="352" height="4" rx="2" fill="url(#lime)"/>
+  </g>
+  <g transform="translate(806,200)">
+    <rect width="34" height="34" rx="9" fill="#1A2410"/>
+    <ellipse cx="17" cy="11" rx="8" ry="3.2" fill="none" stroke="#A3E635" stroke-width="1.8"/>
+    <path d="M9 11v12c0 1.8 3.6 3.2 8 3.2s8-1.4 8-3.2V11" fill="none" stroke="#A3E635" stroke-width="1.8"/>
+    <path d="M9 17c0 1.8 3.6 3.2 8 3.2s8-1.4 8-3.2" fill="none" stroke="#A3E635" stroke-width="1.8"/>
+  </g>
+  <text x="850" y="215" fill="#F8FAFC" font-size="15" font-weight="700">Data</text>
+  <text x="850" y="233" fill="#94A3B8" font-size="11.5">MongoDB / Mongoose · PostgreSQL · Redis</text>
+  <text x="806" y="268" fill="#CBD5E1" font-size="12.5">schema designed together with the UI state</text>
+  <text x="806" y="286" fill="#CBD5E1" font-size="12.5">indexes for real queries · migrations · seed data</text>
+
+  <!-- verification row -->
+  <g stroke="#334155" stroke-width="2" fill="none" marker-end="url(#arrow2)">
+    <path d="M224 296 L224 318"/>
+    <path d="M592 296 L592 318"/>
+    <path d="M960 296 L960 318"/>
+  </g>
+  <g font-size="12.5" font-weight="600">
+    <rect x="48" y="320" width="352" height="46" rx="12" fill="#0F2A22" stroke="#14532D"/>
+    <circle cx="72" cy="343" r="4" fill="#34D399"/>
+    <text x="86" y="347.5" fill="#A7F3D0">Playwright e2e on real input · React Testing Library</text>
+
+    <rect x="416" y="320" width="352" height="46" rx="12" fill="#0F2A22" stroke="#14532D"/>
+    <circle cx="440" cy="343" r="4" fill="#34D399"/>
+    <text x="454" y="347.5" fill="#A7F3D0">Supertest per endpoint · contract &amp; auth cases</text>
+
+    <rect x="784" y="320" width="352" height="46" rx="12" fill="#0F2A22" stroke="#14532D"/>
+    <circle cx="808" cy="343" r="4" fill="#34D399"/>
+    <text x="822" y="347.5" fill="#A7F3D0">Seeded test DB · migration up / down · query checks</text>
+  </g>
+</svg>

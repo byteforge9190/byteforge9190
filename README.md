@@ -48,14 +48,9 @@ The work I enjoy most sits where product design meets engineering: editors, dash
 
 A worked example of how I specify, build and grade frontend work. A React / TypeScript canvas editor, a three-step task written from screenshots of the finished feature, and a test suite that decides *pass* or *fail* without judgement calls.
 
-<div align="center">
-<table>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/byteforge9190/byteforge9190/main/assets/canvas-task-marquee.png" alt="Marquee selection in progress — dashed rubber-band box over three shapes" width="480" /><br/><sub>Step 1 — marquee selection in progress</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/byteforge9190/byteforge9190/main/assets/canvas-task-distribute.png" alt="Three shapes selected and distributed horizontally, toolbar enabled, inspector showing bounds" width="480" /><br/><sub>Step 2 — align / distribute toolbar applied</sub></td>
-</tr>
-</table>
-</div>
+<a href="https://github.com/byteforge9190/canvas-task-alignment/blob/main/TASK.md">
+  <img src="https://raw.githubusercontent.com/byteforge9190/byteforge9190/main/assets/task-pipeline.svg" alt="From screenshot to verifiable task: visual material → task spec → objective criteria → reference build → review guide" width="100%" />
+</a>
 
 | | |
 |---|---|
@@ -76,6 +71,8 @@ git diff main solution --stat            # exactly what the task asks for
 ---
 
 ## 🧭 How I work
+
+<img src="https://raw.githubusercontent.com/byteforge9190/byteforge9190/main/assets/fullstack-blueprint.svg" alt="Full-stack feature blueprint: one spec drives the interface, API and data layers, each verified by its own tests" width="100%" />
 
 > "It looks right" is where the work starts, not where it ends.
 
