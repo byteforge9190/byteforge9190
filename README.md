@@ -30,6 +30,16 @@ What I'm good at:
 
 A worked example of how I specify and grade frontend work. A small React/TypeScript canvas editor, plus:
 
+<div align="center">
+<table>
+<tr>
+<td align="center"><img src="assets/canvas-task-marquee.png" alt="Marquee selection in progress — dashed rubber-band box over three shapes" width="480" /><br/><sub>Step 1 — marquee selection in progress</sub></td>
+<td align="center"><img src="assets/canvas-task-distribute.png" alt="Three shapes selected and distributed horizontally, toolbar enabled, inspector showing bounds" width="480" /><br/><sub>Step 2 — align / distribute toolbar applied</sub></td>
+</tr>
+</table>
+</div>
+
+
 - **`TASK.md`** — a three-step task (marquee selection → align/distribute toolbar → keyboard nudge with undo) written from screenshots of the finished feature, with a precise state contract and documented edge cases.
 - **Objective success criteria** — 12 unit tests on the geometry and 16 Playwright tests that drive the real UI with pointer and keyboard events and assert on application state, not pixels.
 - **`VERIFICATION.md`** — a ten-minute reviewer procedure with integrity checks and explicit accept / reject rules.
