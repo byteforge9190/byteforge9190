@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:1D4ED8,100:60A5FA&height=190&section=header&text=byteforge&fontSize=60&fontColor=EFF6FF&fontAlignY=34&desc=full-stack%20engineer%20%C2%B7%20frontend-first%20%C2%B7%20canvas%20and%20SVG&descSize=17&descAlignY=56&descAlign=50" alt="byteforge — full-stack engineer, frontend-first, canvas and SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:1D4ED8,100:60A5FA&height=190&section=header&text=byteforge&fontSize=60&fontColor=EFF6FF&fontAlignY=34&desc=senior%20frontend%20%2F%20UI%20engineer%20%C2%B7%20full-stack%20capable%20%C2%B7%20canvas%20and%20SVG&descSize=17&descAlignY=56&descAlign=50" alt="byteforge — senior frontend / UI engineer, full-stack capable, canvas and SVG" />
 
 <a href="#-featured">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=60A5FA&center=true&vCenter=true&width=760&lines=Full-stack+engineer%2C+frontend-first.;React+%2B+TypeScript+on+top%2C+Node+%2B+MongoDB+underneath.;Editors%2C+dashboards%2C+drag-and-drop%2C+canvas+and+SVG.;Specs+with+objective+pass+%2F+fail+criteria.;Every+claim+on+this+page+is+one+click+from+proof." alt="Full-stack engineer, frontend-first. React + TypeScript on top, Node + MongoDB underneath. Editors, dashboards, drag-and-drop, canvas and SVG." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=60A5FA&center=true&vCenter=true&width=760&lines=Senior+Frontend+%2F+UI+Engineer.;React+%2B+TypeScript+%E2%80%94+complex+interfaces+and+interactions.;Editors%2C+dashboards%2C+drag-and-drop%2C+canvas+and+SVG.;Full-stack+when+it+matters%3A+Node%2C+Express%2C+MongoDB.;Specs+with+objective+pass+%2F+fail+criteria." alt="Senior Frontend / UI Engineer. React + TypeScript, complex interfaces and interactions. Editors, dashboards, drag-and-drop, canvas and SVG." />
 </a>
 
 <br/>
@@ -18,9 +18,9 @@
 
 ---
 
-## 👋 Hi, I'm Byte Forge
+## 👋 Hi, I'm Byte Forge — Senior Frontend / UI Engineer
 
-Full-stack engineer based in Madrid, strongest on the frontend. I design and build complete features end to end — the React + TypeScript interface, the Node/Express API behind it, the MongoDB or PostgreSQL schema underneath — and I care as much about *proving* a feature behaves correctly as about shipping it.
+Based in Madrid. I design and build complex interfaces in **React + TypeScript** — editors, dashboards, drag-and-drop, canvas and SVG — and I'm full-stack capable when a feature needs it: the Node/Express API behind the UI and the MongoDB or PostgreSQL schema underneath. I care as much about *proving* an interface behaves correctly as about shipping it.
 
 The work I enjoy most sits where product design meets engineering: editors, dashboards, drag-and-drop, interfaces that draw on a `<canvas>` or SVG, and the state management that keeps them consistent under rapid input.
 
@@ -91,7 +91,7 @@ git diff main solution --stat            # exactly what the task asks for
 <a href="https://github.com/byteforge9190/canvas-task-alignment/issues"><img src="https://img.shields.io/badge/Open%20an%20issue-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Open an issue on GitHub" /></a>
 
 <br/><br/>
-<sub>Open to remote full-stack / frontend engineering work and contract task-design roles. The quickest way to reach me is an issue or discussion on any of my repos.</sub>
+<sub>Open to remote senior frontend / UI engineering work and contract task-design roles. The quickest way to reach me is an issue or discussion on any of my repos.</sub>
 
 </div>
 
