@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:1D4ED8,100:60A5FA&height=190&section=header&text=byteforge&fontSize=60&fontColor=EFF6FF&fontAlignY=34&desc=senior%20frontend%20%2F%20UI%20engineer%20%C2%B7%20full-stack%20capable%20%C2%B7%20canvas%20and%20SVG&descSize=17&descAlignY=56&descAlign=50" alt="byteforge — senior frontend / UI engineer, full-stack capable, canvas and SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:1D4ED8,100:60A5FA&height=190&section=header&text=byteforge&fontSize=60&fontColor=EFF6FF&fontAlignY=34&desc=senior%20frontend%20%2F%20UI%20engineer%20%C2%B7%20React%20and%20TypeScript%20%C2%B7%20canvas%20and%20SVG&descSize=17&descAlignY=56&descAlign=50" alt="byteforge — senior frontend / UI engineer, React and TypeScript, canvas and SVG" />
 
 <a href="#-featured">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=60A5FA&center=true&vCenter=true&width=760&lines=Senior+Frontend+%2F+UI+Engineer.;React+%2B+TypeScript+%E2%80%94+complex+interfaces+and+interactions.;Editors%2C+dashboards%2C+drag-and-drop%2C+canvas+and+SVG.;Full-stack+when+it+matters%3A+Node%2C+Express%2C+MongoDB.;Specs+with+objective+pass+%2F+fail+criteria." alt="Senior Frontend / UI Engineer. React + TypeScript, complex interfaces and interactions. Editors, dashboards, drag-and-drop, canvas and SVG." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=60A5FA&center=true&vCenter=true&width=760&lines=Senior+Frontend+%2F+UI+Engineer.;React+%2B+TypeScript+%E2%80%94+complex+interfaces+and+interactions.;Editors%2C+dashboards%2C+drag-and-drop%2C+canvas+and+SVG.;Design+systems%2C+interaction+models%2C+pixel-level+care.;Specs+with+objective+pass+%2F+fail+criteria." alt="Senior Frontend / UI Engineer. React + TypeScript, complex interfaces and interactions. Editors, dashboards, drag-and-drop, canvas and SVG." />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0B1220" alt="React 19" />
 <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0B1220" alt="TypeScript 5" />
-<img src="https://img.shields.io/badge/Node.js-20-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0B1220" alt="Node.js" />
-<img src="https://img.shields.io/badge/MongoDB-Mongoose-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0B1220" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Canvas%20%2F%20SVG-UI-F59E0B?style=for-the-badge&labelColor=0B1220" alt="Canvas / SVG" />
+<img src="https://img.shields.io/badge/Figma-design-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0B1220" alt="Figma" />
 <img src="https://img.shields.io/badge/Playwright-e2e-2EAD33?style=for-the-badge&logo=playwright&logoColor=white&labelColor=0B1220" alt="Playwright" />
 
 </div>
@@ -20,7 +20,7 @@
 
 ## 👋 Hi, I'm Byte Forge — Senior Frontend / UI Engineer
 
-Based in Madrid. I design and build complex interfaces in **React + TypeScript** — editors, dashboards, drag-and-drop, canvas and SVG — and I'm full-stack capable when a feature needs it: the Node/Express API behind the UI and the MongoDB or PostgreSQL schema underneath. I care as much about *proving* an interface behaves correctly as about shipping it.
+Based in Madrid. I design and build complex interfaces in **React + TypeScript** — editors, dashboards, drag-and-drop, interfaces that draw on `<canvas>` and SVG. I work from the design side in: tokens, component systems, interaction models, keyboard and pointer behaviour, accessibility — and I care as much about *proving* an interface behaves correctly as about shipping it.
 
 The work I enjoy most sits where product design meets engineering: editors, dashboards, drag-and-drop, interfaces that draw on a `<canvas>` or SVG, and the state management that keeps them consistent under rapid input.
 
@@ -28,16 +28,16 @@ The work I enjoy most sits where product design meets engineering: editors, dash
 
 | | |
 |---|---|
-| 🎨 **Frontend & UI** | React 19, TypeScript, Vite, Zustand / Redux Toolkit, TanStack Query, Tailwind, Canvas 2D, SVG |
-| ⚙️ **Backend** | Node.js, Express, REST API design, JWT auth, validation (Zod / Joi), rate limiting |
-| 🗄️ **Data** | MongoDB + Mongoose, PostgreSQL, Redis |
+| 🎨 **UI engineering** | React 19, TypeScript, Vite, Zustand / Redux Toolkit, TanStack Query, Tailwind, CSS architecture |
+| 🖌️ **Design** | Figma, design tokens, component systems, responsive layout, motion, accessibility (WCAG, keyboard, ARIA) |
+| 🧩 **Graphics & interaction** | Canvas 2D, SVG, pointer gestures, selection models, undo / redo, drag-and-drop, hit-testing |
 | 🧪 **Verification** | Playwright, Vitest, Jest, React Testing Library, specs with objective pass / fail criteria |
-| 🚀 **Ship** | Docker, GitHub Actions, Vercel / Netlify / Render |
+| 🚀 **Ship** | GitHub Actions, Vercel / Netlify, performance budgets, Lighthouse |
 
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,redux,vite,nodejs,express,mongodb,postgres,redis,docker,githubactions,figma&perline=8" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Redux, Vite, Node.js, Express, MongoDB, PostgreSQL, Redis, Docker, GitHub Actions, Figma" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,redux,vite,figma,jest,vitest,git,githubactions,vscode&perline=7" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Redux, Vite, Figma, Jest, Vitest, Git, GitHub Actions, VS Code" />
 </div>
 
 ---
@@ -72,11 +72,11 @@ git diff main solution --stat            # exactly what the task asks for
 
 ## 🧭 How I work
 
-<img src="https://raw.githubusercontent.com/byteforge9190/byteforge9190/main/assets/fullstack-blueprint.svg" alt="Full-stack feature blueprint: one spec drives the interface, API and data layers, each verified by its own tests" width="100%" />
+<img src="https://raw.githubusercontent.com/byteforge9190/byteforge9190/main/assets/interface-blueprint.svg" alt="Interface design blueprint: one spec drives the visual design, interaction model and rendering, each verified by its own checks" width="100%" />
 
 > "It looks right" is where the work starts, not where it ends.
 
-- **Design the whole feature, not one layer.** Schema, API contract and UI state are decided together, so the interface never has to paper over a bad data model.
+- **Design the interaction model before the components.** Selection, focus, keyboard, pointer and undo rules are decided first; components are built to honour them, not the other way round.
 - **Write the expected behaviour down before coding** — including what should *not* happen (no history entry on a marquee, no nudge with an empty selection).
 - **Prefer tests that assert on state** over screenshots; keep the few pixel checks explicit and manual.
 - **Treat ambiguity as a defect in the spec.** If two reasonable implementations would disagree, fix the spec — don't grade the guess.
@@ -91,7 +91,7 @@ git diff main solution --stat            # exactly what the task asks for
 <a href="https://github.com/byteforge9190/canvas-task-alignment/issues"><img src="https://img.shields.io/badge/Open%20an%20issue-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Open an issue on GitHub" /></a>
 
 <br/><br/>
-<sub>Open to remote senior frontend / UI engineering work and contract task-design roles. The quickest way to reach me is an issue or discussion on any of my repos.</sub>
+<sub>Open to remote senior frontend / UI engineering work and contract UI task-design roles. The quickest way to reach me is an issue or discussion on any of my repos.</sub>
 
 </div>
 
