@@ -18,7 +18,7 @@
 
 ---
 
-## 👋 Hi, I'm Byte Forge — Senior Software Engineer
+## 👋 Hi, I'm Senior Software Engineer
 
 Based in Madrid. I design and build complex interfaces in **React + TypeScript + Java + Python** — editors, dashboards, drag-and-drop, interfaces that draw on `<canvas>` and SVG. I work from the design side in: tokens, component systems, interaction models, keyboard and pointer behaviour, accessibility — and I care as much about *proving* an interface behaves correctly as about shipping it.
 
