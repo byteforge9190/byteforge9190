@@ -18,9 +18,9 @@
 
 ---
 
-## 👋 Hi, I'm Byte Forge — Senior Frontend / UI Engineer
+## 👋 Hi, I'm Byte Forge — Senior Software Engineer
 
-Based in Madrid. I design and build complex interfaces in **React + TypeScript** — editors, dashboards, drag-and-drop, interfaces that draw on `<canvas>` and SVG. I work from the design side in: tokens, component systems, interaction models, keyboard and pointer behaviour, accessibility — and I care as much about *proving* an interface behaves correctly as about shipping it.
+Based in Madrid. I design and build complex interfaces in **React + TypeScript + Java + Python** — editors, dashboards, drag-and-drop, interfaces that draw on `<canvas>` and SVG. I work from the design side in: tokens, component systems, interaction models, keyboard and pointer behaviour, accessibility — and I care as much about *proving* an interface behaves correctly as about shipping it.
 
 The work I enjoy most sits where product design meets engineering: editors, dashboards, drag-and-drop, interfaces that draw on a `<canvas>` or SVG, and the state management that keeps them consistent under rapid input.
 
