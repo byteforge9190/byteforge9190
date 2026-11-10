@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:1D4ED8,100:60A5FA&height=190&section=header&text=byteforge&fontSize=60&fontColor=EFF6FF&fontAlignY=34&desc=senior%20frontend%20%2F%20UI%20engineer%20%C2%B7%20React%20and%20TypeScript%20%C2%B7%20canvas%20and%20SVG&descSize=17&descAlignY=56&descAlign=50" alt="byteforge — senior frontend / UI engineer, React and TypeScript, canvas and SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:1D4ED8,100:60A5FA&height=190&section=header&text=byteforge&fontSize=60&fontColor=EFF6FF&fontAlignY=34&desc=senior%20software%20%2F%20UI%20engineer%20%C2%B7%20Java%20and%20Python%20and%20React%20and%20TypeScript%20%C2%B7%20canvas%20and%20SVG&descSize=17&descAlignY=56&descAlign=50" alt="byteforge — senior frontend / UI engineer, React and TypeScript, canvas and SVG" />
 
 <a href="#-featured">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=60A5FA&center=true&vCenter=true&width=760&lines=Senior+Frontend+%2F+UI+Engineer.;React+%2B+TypeScript+%E2%80%94+complex+interfaces+and+interactions.;Editors%2C+dashboards%2C+drag-and-drop%2C+canvas+and+SVG.;Design+systems%2C+interaction+models%2C+pixel-level+care.;Specs+with+objective+pass+%2F+fail+criteria." alt="Senior Frontend / UI Engineer. React + TypeScript, complex interfaces and interactions. Editors, dashboards, drag-and-drop, canvas and SVG." />
